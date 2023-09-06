@@ -27,4 +27,4 @@ I chose the name as it's a conjugation of the verb "Cutucar", which is loosely t
 ## Obrigado
 
 - **Nudge**: Huge thanks to the [Nudge](https://github.com/macadmins/nudge) team for their excellent tool.
-- **Kitten Technologies**: My little Software Company
+- **Kitten Technologies**: [My little Software Company](https://kittentechnologies.com)
