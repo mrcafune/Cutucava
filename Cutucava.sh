@@ -2,6 +2,15 @@
 
 # Cutucava by Kitten Technologies
 # Simplified Nudge Deployment for macOS
+# https://kittentechnologies.com
+
+# ██████  ██    ██ ████████ ██    ██  ██████  █████  ██    ██  █████  
+# ██      ██    ██    ██    ██    ██ ██      ██   ██ ██    ██ ██   ██ 
+# ██      ██    ██    ██    ██    ██ ██      ███████ ██    ██ ███████ 
+# ██      ██    ██    ██    ██    ██ ██      ██   ██  ██  ██  ██   ██ 
+# ██████  ██████      ██     ██████   ██████ ██   ██   ████   ██   ██ 
+                                                                    
+                                                                    
 
 NUDGE_SUITE_URL="https://github.com/macadmins/nudge/releases/download/v1.1.11.81465/Nudge_Suite-1.1.11.81465.pkg"
 EXAMPLE_JSON_URL="https://raw.githubusercontent.com/macadmins/nudge/main/Example%20Assets/com.github.macadmins.Nudge.json"

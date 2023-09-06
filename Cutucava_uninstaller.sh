@@ -1,7 +1,14 @@
 #!/bin/bash
 
 # Cutucava Uninstaller by Kitten Technologies
-# Uninstall Nudge from macOS
+# Simplified Nudge Deployment for macOS
+# https://kittentechnologies.com
+
+# ██████  ██    ██ ████████ ██    ██  ██████  █████  ██    ██  █████  
+# ██      ██    ██    ██    ██    ██ ██      ██   ██ ██    ██ ██   ██ 
+# ██      ██    ██    ██    ██    ██ ██      ███████ ██    ██ ███████ 
+# ██      ██    ██    ██    ██    ██ ██      ██   ██  ██  ██  ██   ██ 
+# ██████  ██████      ██     ██████   ██████ ██   ██   ████   ██   ██ 
 
 if [ -d "/Applications/Utilities/Nudge.app" ]; then
     echo "Removing Nudge.app..."
