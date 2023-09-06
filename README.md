@@ -1,2 +1,2 @@
-# Cutuvava
+# 🌺Cutucava
 Simplified Nudge Deployment for macOS
