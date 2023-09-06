@@ -10,7 +10,7 @@ Simplified Nudge Deployment Tool for macOS
 - **Uninstaller**: Quickly remove Nudge to continue testing.
 - **Examples Included**: Downloads necessary configuration files to simplify the process for deployment.
   
-## Why "Cutucava"?
+## Why "🌺 Cutucava"?
 
 When first setting up Nudge for multiple environments, the process felt a little daunting.
 Cutucava was written in my personal time to streamline this process. Not just for myself but for other sysadmins as well.
