@@ -2,7 +2,7 @@
 
 Simplified Nudge Deployment Tool for macOS
 
-**Cutucava** by Kitten Technologies is a straightforward script that makes the deployment of Nudge on macOS as easy as a cat's nap.
+**Cutucava** by Kitten Technologies is a straightforward script that makes the deployment of Nudge on macOS fast and easy.
 
 ## Features
 
