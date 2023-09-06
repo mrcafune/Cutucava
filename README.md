@@ -1,4 +1,4 @@
-# 🌺 Cutucava
+# 🌺  Cutucava
 
 Simplified Nudge Deployment Tool for macOS
 
